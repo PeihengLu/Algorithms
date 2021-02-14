@@ -1,2 +1,2 @@
 # PopularAlgorithms
-Algorithms learned from Princeton ann UoE courses
+Algorithms learned from Princeton and UoE courses
